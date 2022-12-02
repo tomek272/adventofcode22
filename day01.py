@@ -1,4 +1,4 @@
-file = 'input'
+file = 'day01_input'
 
 
 def part_one(calories_list):
